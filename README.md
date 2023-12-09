@@ -26,7 +26,7 @@ To run the Streamlit app, use the following command:
    ```
 
 ## Work Flow
-- Retrive Airbnb Data
+- Retrive Airbnb Data from MongoDb Atlas
 - Clean the data by removing duplicates
 - Use Streamlit to visualize data
 - Analyze and visualize how prices vary across different locations, property types, and seasons by creating dynamic plots and charts
