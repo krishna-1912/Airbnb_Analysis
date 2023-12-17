@@ -31,3 +31,6 @@ To run the Streamlit app, use the following command:
 - Use Streamlit to visualize data
 - Analyze and visualize how prices vary across different locations, property types, and seasons by creating dynamic plots and charts
 - Investigate how the price of listings varies across different locations by using interactive maps
+
+## Video recording
+https://github.com/krishna-1912/Airbnb_Analysis/blob/main/AirBnb-Analysis.mp4
